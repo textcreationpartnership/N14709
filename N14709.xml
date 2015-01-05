@@ -117,8 +117,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:018671_0000_0FA8061B7858E570"/>
-            <pb facs="tcp:018671_0001_0FA8061C0782BEA8"/>
+            <pb facs="unknown:018671_0000_0FA8061B7858E570"/>
+            <pb facs="unknown:018671_0001_0FA8061C0782BEA8"/>
             <p>LESSONS FOR LOVERS; WITH SOME TENDER AND PATHETIC ANECDOTES, TAKEN FROM REAL LIFE.</p>
             <p>BY OVID AMERICANUS.</p>
             <q>
@@ -146,7 +146,7 @@
             <p>PHILADELPHIA: PRINTED and SOLD BY ROBERT BELL, IN Third Street. M, DCC, LXXXIV.</p>
          </div>
          <div type="dedication">
-            <pb facs="tcp:018671_0002_0FA8062126C4CE00"/>
+            <pb facs="unknown:018671_0002_0FA8062126C4CE00"/>
             <head>TO THE HONORABLE ROBERT MORRIS, <abbr>Esq</abbr> FINANCIER GENERAL, OF THE UNITED STATES OF NORTH AMERICA.</head>
             <opener>
                <salute>SIR,</salute>
@@ -162,7 +162,7 @@
             </p>
             <p>
                <hi>Those who write for their own Amusement or Emolument are convinced from Experience, that their Advancement (at first) arises more from some happy Turn or Circumstance than real Merit; and tho' Merit will carry them through at the long Run, the Assistance brought by it alone seldom or never comes Time enough for the Object
-<pb facs="tcp:018671_0003_0FA8062275595170"/>
+<pb facs="unknown:018671_0003_0FA8062275595170"/>
 that deserves it.—There is some living Examples, and abun<g ref="char:EOLhyphen"/>dance of dead ones—Some will suggest to themselves after reading this Paragraph that I am afraid of dying unnoticed—Indeed I own I am; but it is not every Reader that will have Candour enough to believe from what Reason.</hi>
             </p>
             <p>
@@ -183,7 +183,7 @@ that deserves it.—There is some living Examples, and abun<g ref="char:EOLhyphe
       </front>
       <body>
          <div type="poem">
-            <pb facs="tcp:018671_0004_0FA80622DBE31D48"/>
+            <pb facs="unknown:018671_0004_0FA80622DBE31D48"/>
             <head>LESSONS FOR LOVERS.</head>
             <epigraph>
                <q>SCRIBERI JUSSET AMOR. Love bade me Write.<bibl> OVID.</bibl>
@@ -217,7 +217,7 @@ that deserves it.—There is some living Examples, and abun<g ref="char:EOLhyphe
                <l>For men are grown so wond'rous wife</l>
                <l>They'll scarcely credit their own eyes;</l>
                <l>
-                  <pb n="6" facs="tcp:018671_0005_0FA806238A816460"/>
+                  <pb n="6" facs="unknown:018671_0005_0FA806238A816460"/>
 And was a god to come one earth,</l>
                <l>He'd only be a tool for mirth;</l>
                <l>He'd find such treatment from the rabble,</l>
@@ -260,7 +260,7 @@ And was a god to come one earth,</l>
                <l>This being to my god divine.</l>
             </lg>
             <lg>
-               <pb n="7" facs="tcp:018671_0006_0FA806244BA22258"/>
+               <pb n="7" facs="unknown:018671_0006_0FA806244BA22258"/>
                <l>Marriage when unendear'd by love</l>
                <l>Will only endless anguish prove;</l>
                <l>For like the plant that feels the touch,</l>
@@ -302,7 +302,7 @@ And was a god to come one earth,</l>
                <l>The fairest of the virgin throng</l>
                <l>Was tender ANNA bright and young,</l>
                <l>
-                  <pb n="8" facs="tcp:018671_0007_0FA80625161820C0"/>
+                  <pb n="8" facs="unknown:018671_0007_0FA80625161820C0"/>
 Whom many a youth had strove to gain,</l>
                <l>Tho' all their efforts prov'd but vain;</l>
                <l>And tho' obdurate still the maid,</l>
@@ -342,7 +342,7 @@ Whom many a youth had strove to gain,</l>
                <l>Say, has not God with wond'rous skill</l>
                <l>Left free as air the human will?</l>
                <l>
-                  <pb n="9" facs="tcp:018671_0008_0FA80625F5A8E0A0"/>
+                  <pb n="9" facs="unknown:018671_0008_0FA80625F5A8E0A0"/>
 And shall a father's earth-born aim</l>
                <l>To bind the feelings wish, or claim?</l>
                <l>'Tis true that children should obey</l>
@@ -385,7 +385,7 @@ And shall a father's earth-born aim</l>
                <l>The female treasure pride and boast.</l>
             </lg>
             <lg>
-               <pb n="10" facs="tcp:018671_0009_0FA80627912E5C78"/>
+               <pb n="10" facs="unknown:018671_0009_0FA80627912E5C78"/>
                <l>Ah! where's the art her griefs can tell,</l>
                <l>Or muse the moving numbers swell</l>
                <l>With woes like her's? such tortures speak?</l>
@@ -425,7 +425,7 @@ And shall a father's earth-born aim</l>
                <l>To thee we run, for ease to thee</l>
                <l>The mental mourners mostly flee!</l>
                <l>
-                  <pb n="11" facs="tcp:018671_0010_0FA806282CE3DDF8"/>
+                  <pb n="11" facs="unknown:018671_0010_0FA806282CE3DDF8"/>
 When ah! they find the wound grow worse,</l>
                <l>A first transgression grows a curse:</l>
                <l>The very best may orr for once,</l>
@@ -466,7 +466,7 @@ When ah! they find the wound grow worse,</l>
                <l>With heavy hearts they'll pensive say,</l>
                <l>"Here lovely ANNA us'd to stray!</l>
                <l>
-                  <pb n="12" facs="tcp:018671_0011_0FA80628E7B9A1C8"/>
+                  <pb n="12" facs="unknown:018671_0011_0FA80628E7B9A1C8"/>
 "Then nature all around look'd gay,</l>
                <l>"Then Autumn wore the bloom of may;</l>
                <l>"In summers suns, the spreading trees,</l>
@@ -508,7 +508,7 @@ When ah! they find the wound grow worse,</l>
                <l>And Shame, and soul depressing grief,</l>
                <l>To which but death could give relief! —</l>
                <l>
-                  <pb n="13" facs="tcp:018671_0012_0FA806298D58F630"/>
+                  <pb n="13" facs="unknown:018671_0012_0FA806298D58F630"/>
 Then see the wounded parent sigh,</l>
                <l>The glistning tear stand in his eye,—</l>
                <l>The trembling lip—the faultring tongue—</l>
@@ -548,7 +548,7 @@ Then see the wounded parent sigh,</l>
                <l>By sleepless conscience was distrest,</l>
                <l>And staring guilt ne'er let him rest;</l>
                <l>
-                  <pb n="14" facs="tcp:018671_0013_0FA8062A90C6DC60"/>
+                  <pb n="14" facs="unknown:018671_0013_0FA8062A90C6DC60"/>
 His self-convicting soul then knew</l>
                <l>Transgression in its horrid view,</l>
                <l>Nor peace nor comfort could he find,</l>
@@ -590,7 +590,7 @@ His self-convicting soul then knew</l>
                <l>They both each others failings knew,</l>
                <l>And having comfort still in view,</l>
                <l>
-                  <pb n="15" facs="tcp:018671_0014_0FA8062B0F6ABF30"/>
+                  <pb n="15" facs="unknown:018671_0014_0FA8062B0F6ABF30"/>
 They scorn'd to speak of follies past,</l>
                <l>And liv'd contented to the last;</l>
                <l>The husband tender to his wife,</l>
@@ -630,7 +630,7 @@ They scorn'd to speak of follies past,</l>
                <l>Then see him tortur'd with distress,</l>
                <l>Griefs that the muse cannot express:</l>
                <l>
-                  <pb n="16" facs="tcp:018671_0015_0FA8062CA60E4388"/>
+                  <pb n="16" facs="unknown:018671_0015_0FA8062CA60E4388"/>
 The tender anguish kindling strong,</l>
                <l>With absent fear, for ever wrong;</l>
                <l>Her every charm with new delight,</l>
@@ -669,7 +669,7 @@ The tender anguish kindling strong,</l>
                <l>Their sweetest joy, or keenest woe.</l>
             </lg>
             <lg>
-               <pb n="17" facs="tcp:018671_0016_0FA8062D44697888"/>
+               <pb n="17" facs="unknown:018671_0016_0FA8062D44697888"/>
                <l>Thou jealousy with tenfold ire,</l>
                <l>Awake the muse, and strike the lyre,</l>
                <l>And kindle passions wildly great,</l>
@@ -709,7 +709,7 @@ The tender anguish kindling strong,</l>
                <l>Sad inward feelings wring the heart,</l>
                <l>And nothing can a charm impart;</l>
                <l>
-                  <pb n="18" facs="tcp:018671_0017_0FA8062F01D9F7F0"/>
+                  <pb n="18" facs="unknown:018671_0017_0FA8062F01D9F7F0"/>
 For grief absorbs the pliant mind,</l>
                <l>And anguish with her stings unkind;</l>
                <l>Dire brooding troubles fill the breast,</l>
@@ -750,7 +750,7 @@ For grief absorbs the pliant mind,</l>
                <l>Soon gathers body light and shade.</l>
             </lg>
             <lg>
-               <pb n="19" facs="tcp:018671_0018_0FA8063022EA9170"/>
+               <pb n="19" facs="unknown:018671_0018_0FA8063022EA9170"/>
                <l>Trifle not ye wedded pairs</l>
                <l>With the tender nuptial cares,</l>
                <l>Joke not, taunt not, be but wife,</l>
@@ -791,7 +791,7 @@ For grief absorbs the pliant mind,</l>
                <l>Is scarcely by the husband known.</l>
             </lg>
             <lg>
-               <pb n="20" facs="tcp:018671_0019_0FA806304B833078"/>
+               <pb n="20" facs="unknown:018671_0019_0FA806304B833078"/>
                <l>Now if the wife a strumpet proves,</l>
                <l>And subtly says she only loves</l>
                <l>Him the laws have ty'd her to,</l>
@@ -830,7 +830,7 @@ For grief absorbs the pliant mind,</l>
                <l>To be the comfort of his life.</l>
             </lg>
             <lg>
-               <pb n="21" facs="tcp:018671_0020_0FA806312186D708"/>
+               <pb n="21" facs="unknown:018671_0020_0FA806312186D708"/>
                <l>Young Damon too had read <gap reason="illegible: indecipherable" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap>
@@ -877,7 +877,7 @@ For grief absorbs the pliant mind,</l>
                <l>A perfect wife—a thing for use,</l>
                <l>To make his tea, or slaves abuse.</l>
                <l>
-                  <pb n="22" facs="tcp:018671_0021_0FA80631C8CD3838"/>
+                  <pb n="22" facs="unknown:018671_0021_0FA80631C8CD3838"/>
 'Twas now, "you must, or faith you shan't;"</l>
                <l>Before 'twas "ah my dear I cant,"</l>
                <l>"My love, your pleasure is my will,"</l>
@@ -919,7 +919,7 @@ For grief absorbs the pliant mind,</l>
                <l>Besides for sleep he went to bed,</l>
                <l>And sleep was most in Damon's head;</l>
                <l>
-                  <pb n="23" facs="tcp:018671_0022_0FA806328DAEA3C8"/>
+                  <pb n="23" facs="unknown:018671_0022_0FA806328DAEA3C8"/>
 But ah! poor Fanny thought it hard</l>
                <l>To be from something sweet debar'd.</l>
             </lg>
@@ -961,7 +961,7 @@ But ah! poor Fanny thought it hard</l>
                <l>And laugh'd to see him look so odd;</l>
                <l>"This moment, Sir, you shall, by G—d,</l>
                <l>
-                  <pb n="24" facs="tcp:018671_0023_0FA8063440A17FC0"/>
+                  <pb n="24" facs="unknown:018671_0023_0FA8063440A17FC0"/>
 Give satisfaction," Damon cries,</l>
                <l>With sury flashing from his eyes.</l>
             </lg>
@@ -1003,7 +1003,7 @@ Give satisfaction," Damon cries,</l>
                <l>But all in vain — The jealous fiend,</l>
                <l>Had quite engross'd his fickle mind;</l>
                <l>
-                  <pb n="25" facs="tcp:018671_0024_0FA80634E4B41288"/>
+                  <pb n="25" facs="unknown:018671_0024_0FA80634E4B41288"/>
 And ev'n the assurance of his grief,</l>
                <l>To what he feels, would be relief;</l>
                <l>For fear awakens in the brain</l>
@@ -1045,7 +1045,7 @@ And ev'n the assurance of his grief,</l>
                <l>Conjugal sympathy of soul,</l>
                <l>In happy concord held the whole,</l>
                <l>
-                  <pb n="26" facs="tcp:018671_0025_0FA8063586C8C160"/>
+                  <pb n="26" facs="unknown:018671_0025_0FA8063586C8C160"/>
 Still kinder sweeter to the last,</l>
                <l>They priz'd the present by the past.</l>
             </lg>
@@ -1085,7 +1085,7 @@ Still kinder sweeter to the last,</l>
                <l>Where sacred love illumes each soul,</l>
                <l>And harmony conducts the whole;</l>
                <l>
-                  <pb n="27" facs="tcp:018671_0026_0FA8063647C26B70"/>
+                  <pb n="27" facs="unknown:018671_0026_0FA8063647C26B70"/>
 Happy in what'er chance doth give,</l>
                <l>For each alone they both do live:</l>
             </lg>
@@ -1129,7 +1129,7 @@ Happy in what'er chance doth give,</l>
                <l>Made Elen keep within her breast</l>
                <l>A secret that she wish'd confest,</l>
                <l>
-                  <pb n="28" facs="tcp:018671_0027_0FA8063897A8A400"/>
+                  <pb n="28" facs="unknown:018671_0027_0FA8063897A8A400"/>
 And when young Edward spoke his heart,</l>
                <l>She seem'd to play a heedless part.—</l>
             </lg>
@@ -1180,7 +1180,7 @@ And when young Edward spoke his heart,</l>
                <l>Not less impatient Edward stay'd</l>
                <l>To hear the part that Elen play'd.</l>
                <l>
-                  <pb n="29" facs="tcp:018671_0028_0FA8063A4EBCC038"/>
+                  <pb n="29" facs="unknown:018671_0028_0FA8063A4EBCC038"/>
 At length the frantic mourner came,</l>
                <l>Distracted calling Edward's name —</l>
                <l>She saw him—stream'd—and thought his ghost</l>
@@ -1220,7 +1220,7 @@ At length the frantic mourner came,</l>
                <l>At length grown bolder by distress</l>
                <l>Her love she coyly will confess</l>
                <l>
-                  <pb n="30" facs="tcp:018671_0029_0FA8063B8FCD6518"/>
+                  <pb n="30" facs="unknown:018671_0029_0FA8063B8FCD6518"/>
 To some companion, laying strong</l>
                <l>Injunctions on her silent tongue.</l>
             </lg>
@@ -1264,7 +1264,7 @@ To some companion, laying strong</l>
                <l>A wife should ever modest be;</l>
                <l>A husband constant kind and free;</l>
                <l>
-                  <pb n="31" facs="tcp:018671_0030_0FA8063C5D5AD4E0"/>
+                  <pb n="31" facs="unknown:018671_0030_0FA8063C5D5AD4E0"/>
 She tender, careful and discreet,</l>
                <l>In housewife offices complete;</l>
                <l>And he both learn'd in books, and men,</l>
@@ -1287,7 +1287,7 @@ She tender, careful and discreet,</l>
             <trailer>THE END OF LESSONS FOR LOVERS.</trailer>
          </div>
          <div type="title_page">
-            <pb facs="tcp:018671_0031_0FA8063D1E142260"/>
+            <pb facs="unknown:018671_0031_0FA8063D1E142260"/>
             <p>THE THUNDER STORM, A POEM.</p>
             <p>Supposed to be written by the late celebrated Miss A—. now Mrs. L—.</p>
             <p>
@@ -1295,7 +1295,7 @@ She tender, careful and discreet,</l>
             </p>
          </div>
          <div type="poem">
-            <pb facs="tcp:018671_0032_0FA8063DCBEB3948"/>
+            <pb facs="unknown:018671_0032_0FA8063DCBEB3948"/>
             <head>THE THUNDER-STORM, A POEM.</head>
             <lg>
                <l>THE rolling vapours drawn in volumes great,</l>
@@ -1327,7 +1327,7 @@ She tender, careful and discreet,</l>
                <l>Sad expectation fills the heart of man,</l>
                <l>And half afraid the virgins cheeks grow wan;</l>
                <l>
-                  <pb n="33" facs="tcp:018671_0033_0FA8063E9C912028"/>
+                  <pb n="33" facs="unknown:018671_0033_0FA8063E9C912028"/>
 The youth from school, with visionary fright,</l>
                <l>Beholds the gloom and runs with all his might.</l>
             </lg>
@@ -1368,7 +1368,7 @@ The youth from school, with visionary fright,</l>
                <l>Must feel the sad variety of pain.</l>
             </lg>
             <lg>
-               <pb n="34" facs="tcp:018671_0034_0FA8063F8284CE50"/>
+               <pb n="34" facs="unknown:018671_0034_0FA8063F8284CE50"/>
                <l>Wide rent the clouds a watry torrent yield,</l>
                <l>That grateful maturate the thirsting field:</l>
                <l>At length subsided, all is peace again,</l>
@@ -1410,7 +1410,7 @@ The youth from school, with visionary fright,</l>
                <l>Oft fondly picturing in the mimic mind</l>
                <l>What future scenes of happiness they'd find.</l>
                <l>
-                  <pb n="35" facs="tcp:018671_0035_0FA8064022342E08"/>
+                  <pb n="35" facs="unknown:018671_0035_0FA8064022342E08"/>
 Alas! 'tis visionary all, and vain,</l>
                <l>The fleeting phantoms of the formful brain.</l>
             </lg>
